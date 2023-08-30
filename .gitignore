@@ -1,0 +1,6 @@
+.Rhistory
+__pycache__
+.ipynb_checkpoints
+ipython.html
+logs
+.DS_Store
